@@ -3,7 +3,7 @@ YMM4用の正多面体描画プラグイン <br>
  
  
 # インストール方法
-[Release](https://github.com/leftcontroller0518/RegularPolyhedron/releases/tag/ymm4plugin)にある最新バージョンのymmeファイルをダウンロードし、ダブルクリックでインストール。  <br>
+[Release](https://github.com/leftcontroller0518/RegularPolyhedron/releases)にある最新バージョンのymmeファイルをダウンロードし、ダブルクリックでインストール。  <br>
  
  
 # 機能
